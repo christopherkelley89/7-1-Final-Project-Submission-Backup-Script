@@ -1,0 +1,30 @@
+    1  gcc
+    2  java
+    3  sudo apt update && sudo apt upgrade -y
+    4  sudo apt update -y && sudo apt upgrade -y
+    5  sudo apt update && sudo apt upgrade -y
+    6  sudo apt install man
+    7  pwd
+    8  whoami
+    9  echo "Christopher Kelley"
+   10  ls
+   11  ls -l
+   12  ls -a
+   13  grep 'lastbackup' *.txt
+   14  ls -l whoownsme.txt
+   15  top
+   16  history > Bearings_Log_File.txt
+   17  mkdir NEW && mkdir BACKUP && mkdir OLD
+   18  echo -e "The global chip shortage\nhas been extremely frustrating\npurchasing components\nhas been nearly impossible\nThe past few years..." >> Personal_Content.txt
+   19  df > Free_Space_Content.txt
+   20  ls -l > Directory_Content.txt
+   21  cp Directory_Content.txt Copied_Content.txt
+   22  echo "$(date +"%A %B %d %X")"> Time_File.txt
+   23  Copied_Content.txt /home/codio/workspace/OLD/Copied_Content_OLD.txt
+   24  ls
+   25  cp Copied_Content.txt /home/codio/workspace/OLD/Copied_Content_OLD.txt
+   26  cp Directory_Content.txt /home/codio/workspace/OLD/Directory_Content_OLD.txt
+   27  cp Free_Space_Content.txt /home/codio/workspace/OLD/Free_Space_Content_OLD.txt
+   28  cp Personal_Content.txt /home/codio/workspace/OLD/Personal_Content_OLD.txt
+   29  cp Time_File.txt /home/codio/workspace/OLD/Time_File_OLD.txt
+   30  history > Tasks_Log_File.txt
