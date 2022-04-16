@@ -21,8 +21,6 @@ you place them in the directory titled “NEW”:
 A. A text file with five lines of text that you chose, titled Personal_Content.txt
 B. A text file listing the quantity of operating system free space, titled Free_Space_Content.txt
 C. A text file listing the directory contents of your workspace directory and showing all file permissions, titled Directory_Content.txt
-2
-
 D. A text file with the concatenated output of the Directory_Content.txt file (title the new file Copied_Content.txt.)
 E. A text file showing the current month, day, and time (title this file Time_File.txt.)
 IX. Modify and copy files: Utilize Linux commands to rename files and copy them to a different directory in preparation for the backup script in the
